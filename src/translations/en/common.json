@@ -1,0 +1,81 @@
+{
+  "button": {
+    "findOutMore": "FIND OUT MORE",
+    "viewMore": "View More"
+  },
+  "career": {
+    "description": "General Job Description",
+    "notRecuit": "Sorry, currently we do not recruit any positions, please come back later!",
+    "profileIncludes": "Profile Includes",
+    "requires": "Require",
+    "title": "Career",
+    "updateDate": "Update date",
+    "viewDetails": "VIEW DETAILS",
+    "welfare": "Welfare"
+  },
+  "contact": {
+    "Error": "Error",
+    "city": "City",
+    "company": "Company",
+    "country": "Country",
+    "errorRequireFields": "Please fill in all required fields",
+    "fullAddress": "No. 4 BT4, Yen Xa, General Directorate Area V, Tan Trieu, Thanh Tri, Hanoi, Vietnam",
+    "hasSubmited": "Your message has been summitted",
+    "hearing": "We look forward to hearing from you",
+    "howReach": "How you can reach us",
+    "message": "Message",
+    "name": "Name",
+    "phone": "Phone",
+    "street": "Street",
+    "subject": "Subject",
+    "submit": "Submit",
+    "submitting": "Submitting",
+    "title": "Contact",
+    "zip": "ZIP"
+  },
+  "copyright": {
+    "address1": "No. 4 BT4, Yen Xa, General Directorate Area V",
+    "address2": "Tan Trieu, Thanh Tri, Hanoi",
+    "vietnam": "VIETNAM"
+  },
+  "error404": {
+    "backHome": "Back to Home",
+    "notFound": "Not found",
+    "title": "404 Not Found"
+  },
+  "footer": {
+    "address": "Tan Trieu, Thanh Tri, Hanoi, Vietnam",
+    "downloadProfile": "Download Vietcom Profile",
+    "sendMail": "Send an email to us",
+    "t": "T"
+  },
+  "header": {
+    "Career": "Career",
+    "Home": "Home",
+    "News": "News",
+    "Projects": "Projects",
+    "Service": "Service",
+    "Solutions": "Solutions",
+    "about": "About us",
+    "searchFor": "Search for"
+  },
+  "locationBar": {
+    "youHere": "You stay here"
+  },
+  "login": {
+    "password": "Password",
+    "requirePassword": "Required password!",
+    "requireUsername": "Required username!",
+    "title": "Login",
+    "username": "Username",
+    "wrongUsernamePassword": "Wrong username or password"
+  },
+  "search": {
+    "news": "news",
+    "page": "page",
+    "path": "Path",
+    "project": "project",
+    "result": "result",
+    "solution": "solution"
+  }
+}

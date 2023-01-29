@@ -1,0 +1,81 @@
+{
+  "button": {
+    "findOutMore": "TÌM HIỂU THÊM",
+    "viewMore": "Xem thêm"
+  },
+  "career": {
+    "description": "Mô Tả Chung Công Việc",
+    "notRecuit": "Rất tiếc, hiện tại chúng tôi không tuyển dụng vị trí nào, vui lòng quay lại sau!",
+    "profileIncludes": "Hồ sơ bao gồm",
+    "requires": "Yêu Cầu",
+    "title": "Tuyển dụng",
+    "updateDate": "Cập nhật ngày",
+    "viewDetails": "XEM CHI TIẾT",
+    "welfare": "Quyền lợi"
+  },
+  "contact": {
+    "Error": "Lỗi",
+    "city": "Thành phố",
+    "company": "Công ty",
+    "country": "Quốc gia",
+    "errorRequireFields": "Vui lòng nhập các trường yêu cầu",
+    "fullAddress": "Số 4 BT4, Khu tập thể Tổng cục V, Yên Xã, Tân Triều, Thanh Trì, Hà Nội, Việt Nam",
+    "hasSubmited": "Tin nhắn của bạn đã được gửi đi",
+    "hearing": "Chúng tôi mong chờ tin từ bạn",
+    "howReach": "Làm thế nào bạn có thể liên hệ với chúng tôi",
+    "message": "Tin nhắn",
+    "name": "Tên",
+    "phone": "Điện thoại",
+    "street": "Phố",
+    "subject": "Chủ đề",
+    "submit": "Gửi đi",
+    "submitting": "Đang gửi",
+    "title": "Liên hệ",
+    "zip": "Mã bưu chính"
+  },
+  "copyright": {
+    "address1": "Số 4 BT4, Khu tập thể Tổng cục V",
+    "address2": "Yên Xã, Tân Triều, Thanh Trì, Hà Nội",
+    "vietnam": "VIỆT NAM"
+  },
+  "error404": {
+    "backHome": "Quay lại trang chủ",
+    "notFound": "Không tìm thấy trang này",
+    "title": "Lỗi 404: Không tìm thấy"
+  },
+  "footer": {
+    "address": "Yên Xã, Tân Triều, Thanh Trì, Hà Nội",
+    "downloadProfile": "Tải về hồ sơ Vietcom",
+    "sendMail": "Gửi email cho chúng tôi",
+    "t": "Đ"
+  },
+  "header": {
+    "Career": "Tuyển dụng",
+    "Home": "Trang chủ",
+    "News": "Tin tức",
+    "Projects": "Dự án",
+    "Service": "Dịch vụ",
+    "Solutions": "Giải pháp",
+    "about": "Giới thiệu",
+    "searchFor": "Tìm kiếm"
+  },
+  "locationBar": {
+    "youHere": "Bạn đang ở đây"
+  },
+  "login": {
+    "password": "Mật khẩu",
+    "requirePassword": "Cần nhập mật khẩu!",
+    "requireUsername": "Cần nhập tên đăng nhập!",
+    "title": "Đăng nhập",
+    "username": "Tên đăng nhập",
+    "wrongUsernamePassword": "Sai tên đăng nhập hoặc mật khẩu"
+  },
+  "search": {
+    "news": "tin tức",
+    "page": "trang",
+    "path": "Đường dẫn",
+    "project": "dự án",
+    "result": "kết quả",
+    "solution": "giải pháp"
+  }
+}
